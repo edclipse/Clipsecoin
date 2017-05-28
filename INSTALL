@@ -1,9 +1,0 @@
-Building Clipsecoin
-
-See doc/readme-qt.rst for instructions on building Clipsecoin-Qt,
-the intended-for-end-users, nice-graphical-interface, reference
-implementation of Clipsecoin.
-
-See doc/build-*.txt for instructions on building clipsecoind,
-the intended-for-services, no-graphical-interface, reference
-implementation of Clipsecoin.
